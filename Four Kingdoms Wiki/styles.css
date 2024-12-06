@@ -1,0 +1,27 @@
+#four-kingdoms-wiki {
+    font-family: fantasy;
+    font-size: 3em;
+    text-emphasis: underline;
+    color: black;
+}
+
+body {
+    background-color: #281E5D;
+    color: white;
+}
+
+h1 {
+    color: black;
+}
+
+h2 {
+    color: black;
+}
+
+h3 {
+    color: grey;
+}
+
+li {
+    color: grey;
+}
